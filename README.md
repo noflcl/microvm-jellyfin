@@ -1,8 +1,9 @@
-<center>
+<p align="center">
 
 # MicroVM Jellyfin
 <img src="logo.png">
-</center>
+</p>
+
 <br>
 Using MicroVM to deploy a minimal virtual machine of Jellyfin running on NixOS.
 
